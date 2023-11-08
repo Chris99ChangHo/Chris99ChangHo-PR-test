@@ -6,3 +6,7 @@
 | ---- | ------ | -------| 
 | ChangHo Jang | Chris99ChangHo | Chris99ChangHo/Chris99ChangHo-Pr-test
 | JeongAh Shin | strd1212       | strd1212/strd1212-PR-test
+
+## Greetings
+
+@strd1212: Hello
